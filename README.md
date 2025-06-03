@@ -11,7 +11,7 @@
 
 Comprehensive dashboard for online stores with real-time analytics and inventory management.
 
-![Dashboard Screenshot]((https://github.com/user-attachments/assets/93c4fd4c-1bfe-472b-be29-0c45674b5ade)) 
+![Dashboard Screenshot](https://github.com/user-attachments/assets/619310a5-4167-4bda-8d07-970b5038ed52) 
 
 ## 📊 Key Features
 
